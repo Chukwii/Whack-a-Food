@@ -39,6 +39,7 @@ public class TargetX : MonoBehaviour
                
     }
 
+    
     // Generate a random spawn position based on a random index from 0 to 3
     Vector3 RandomSpawnPosition()
     {
